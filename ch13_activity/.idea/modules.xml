@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-312147664/AndroidLab.iml" filepath="$PROJECT_DIR$/.idea/modules/-312147664/AndroidLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011367742/AndroidLab.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763463961/AndroidLab.ch10_notification.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.iml" filepath="$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2134850121/AndroidLab.ch11_jetpack.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.iml" filepath="$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-283588255/AndroidLab.ch12_material.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLab.ch13_activity.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784401817/AndroidLab.ch14_receiver.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.iml" filepath="$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-590124988/AndroidLab.ch15_outer.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.iml" filepath="$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1378795458/AndroidLab.ch15_service.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1938763431/AndroidLab.ch16_provider.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.iml" filepath="$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.main.iml" filepath="$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/224242512/AndroidLab.ch17_database.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.iml" filepath="$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1648107706/AndroidLab.ch18_network.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.iml" filepath="$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1534350999/AndroidLab.ch19_map.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1745036996/AndroidLab.ch20_firebase.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1355429966/AndroidLab.ch6_view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.iml" filepath="$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.main.iml" filepath="$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/256615894/AndroidLab.ch7_layout.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.iml" filepath="$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1603928657/AndroidLab.ch8_event.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943054856/AndroidLab.ch9_resource.unitTest.iml" />
+    </modules>
+  </component>
+</project>
